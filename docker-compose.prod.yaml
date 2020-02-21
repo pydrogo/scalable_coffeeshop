@@ -4,7 +4,7 @@ services:
 
   app:
     environment:
-      - DJANGO_SETTINGS_MODULE=mysite.settings.production
+      - DJANGO_SETTINGS_MODULE=restbucks.settings.production
       - SECRET_KEY
     volumes:
       - static:/static
