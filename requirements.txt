@@ -2,7 +2,7 @@ amqp==2.5.2
 billiard==3.6.1
 celery==4.4
 Django==2.1.2
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 django-celery-results==1.0.1
 djangorestframework-simplejwt==4.4.0
 gunicorn==19.9.0
